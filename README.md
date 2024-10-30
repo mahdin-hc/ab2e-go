@@ -1,5 +1,6 @@
 ### Overview
 AB2E scene loader for go.
+*Box2D scene loader written in go.*
 
 > Note: Under Development
 
